@@ -43,27 +43,35 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 📌 Featured Projects
+
 🔹 **[Stock Management System](https://github.com/PisethMao/Stock-Management-System)**  
 Console-based stock & sales manager with product catalog, search, sorting, pagination, and Excel export for reports. Designed to practice clean C++ structure and real-life inventory workflows.  
 `C++ · CMake · xlnt (Excel) · tabulate`
+
 🔹 **[Restaurant Static Website](https://github.com/PisethMao/Restaurant-Static-Website-Mini-Project)**  
 Landing page for a modern restaurant with hero section, menu showcase, and contact section, built as a practice project for clean layout and responsive design.  
 `HTML · CSS · JavaScript · Responsive Design`
+
 🔹 **[Fetching API Mini Project](https://github.com/PisethMao/Fetching-API-Mini-Project)**  
 Small web app that fetches data from a public API and renders it dynamically in the UI, focused on practicing async JavaScript, error handling, and clean UI updates.  
 `HTML · CSS · JavaScript · Fetch API`
+
 🔹 **[Phone Shop Backend](https://github.com/PisethMao/phone_shop_piseth)**  
 Java backend for a phone shop, with structured project setup for managing products, categories, and shop data as REST APIs. Built to practice Spring Boot, layered architecture, and clean code for real-world store systems.  
 `Java · Spring Boot · Maven`
+
 🔹 **[Library Management System](https://github.com/PisethMao/Library-Management-System-Project)**  
 Console-based library system with colored CLI, pagination, and book/member management.  
 `Java · OOP · Collections`
+
 🔹 **[NexPress – Blog Platform](https://github.com/PisethMao/NexPress)**  
 Modern blog platform with hero section, categories, author spotlight, and responsive UI.  
 `Next.js 14 · Tailwind CSS · Framer Motion`
+
 🔹 **[Launchly – Static Site Deployer](https://github.com/PisethMao/Launchly)**  
 Deploy static sites from GitHub/GitLab/ZIP with automatic subdomains and Cloudflare tunnel integration.  
 `Next.js · Node.js · Prisma · SQLite · Cloudflare`
+
 ---
 ### 🎯 What I'm Working On Now
 - Improving backend design with clean architecture and best practices
