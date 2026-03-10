@@ -19,13 +19,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📊 Most Used Languages
+### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=8&theme=tokyonight" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=10&theme=tokyonight" height="160"/>
 </p>
 
 **Backend**
