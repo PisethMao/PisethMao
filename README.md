@@ -26,8 +26,9 @@
     src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
+
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight&langs_count=10&include_langs=java,go,typescript,javascript,cpp,html,css&hide_border=true" 
     height="180"
   />
 </p>
