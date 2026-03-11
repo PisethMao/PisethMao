@@ -28,10 +28,12 @@
   />
 </p>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
-height="320"
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
+    width="900"
+  />
+</p>
 
 <p align="center">
   <img 
@@ -39,7 +41,6 @@ height="320"
     height="200"
   />
 </p>
-
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
