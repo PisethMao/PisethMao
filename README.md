@@ -23,15 +23,15 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight&hide_border=true"
     height="200"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
-    width="900"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    width="750"
   />
 </p>
 
@@ -41,6 +41,7 @@
     height="200"
   />
 </p>
+
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
