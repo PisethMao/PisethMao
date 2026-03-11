@@ -23,7 +23,8 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PisethMao&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PisethMao&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight"/>
 </p>
 
 **Backend**
