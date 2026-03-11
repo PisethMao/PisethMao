@@ -22,19 +22,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight&hide_border=true"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&include_langs=java,go,typescript,javascript,cpp,python,html,css,shell"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&include_langs=java,go,typescript,javascript,cpp,python,html,css,shell"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img
+  <img 
     src="https://streak-stats.demolab.com/?user=PisethMao&theme=tokyonight&hide_border=true"
   />
 </p>
