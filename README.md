@@ -30,13 +30,6 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
-    width="750"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://streak-stats.demolab.com/?user=PisethMao&theme=tokyonight&hide_border=true"
     height="200"
   />
