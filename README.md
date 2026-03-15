@@ -156,10 +156,15 @@ https://github.com/PisethMao/Library-Management-System-Project
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PisethMao&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PisethMao&theme=tokyo-night"/>
 </p>
 
 ---
