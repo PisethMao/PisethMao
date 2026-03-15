@@ -1,98 +1,172 @@
-<h1 align="center">Hi, I'm Piseth Mao 👋</h1>
+<h1 align="center">Hi 👋 I'm Piseth Mao</h1>
+
 <p align="center">
-  Backend & DevOps Learner · Cambodia
+Backend Engineer · DevOps Enthusiast · Blockchain Learner
+</p>
+
+<p align="center">
+Designing backend systems, exploring DevOps automation, and learning decentralized technologies.
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 IT / Software Engineering Background
-- 🛠 Interested in Backend (Java, Spring Boot) & DevOps
-- 🚀 Goal: become a strong backend + DevOps engineer who can design and deloy real systems
-- 🌱 Currently Learning: Linux, Docker, CI/CD, system design
----
-### 🧰 Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
+- 🎓 Software Engineering background
+- 🛠 Focused on **Backend Engineering and DevOps**
+- 🚀 Passionate about building **reliable, scalable systems**
+- 🔧 Interested in **system design, automation, and infrastructure**
+- 🌱 Currently learning **Linux, Docker, CI/CD, Kubernetes, and Blockchain Development**
+
+---
+
+## ⚙️ Engineering Focus
+
+**Backend Development**
+
+- Java / Spring Boot
+- REST API architecture
+- Clean Architecture
+- Database design
+
+**DevOps & Infrastructure**
+
+- Linux server administration
+- Docker containerization
+- CI/CD pipelines
+- Infrastructure automation
+
+**Blockchain (Learning)**
+
+- Smart contract fundamentals
+- Decentralized application architecture
+- Blockchain system design
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight&hide_border=true"
-    height="200"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=PisethMao&theme=tokyonight&hide_border=true"
-    height="200"
-  />
-</p>
-
-**Backend**
+### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Frontend**
+---
+
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Tools**
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### DevOps & Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Experimenting with**
+---
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+### Blockchain (Exploring)
 
-### 📌 Featured Projects
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-🔹 **[Stock Management System](https://github.com/PisethMao/Stock-Management-System)**  
-Console-based stock & sales manager with product catalog, search, sorting, pagination, and Excel export for reports. Designed to practice clean C++ structure and real-life inventory workflows.  
-`C++ · CMake · xlnt (Excel) · tabulate`
+---
 
-🔹 **[Restaurant Static Website](https://github.com/PisethMao/Restaurant-Static-Website-Mini-Project)**  
-Landing page for a modern restaurant with hero section, menu showcase, and contact section, built as a practice project for clean layout and responsive design.  
-`HTML · CSS · JavaScript · Responsive Design`
+## 📌 Featured Projects
 
-🔹 **[Fetching API Mini Project](https://github.com/PisethMao/Fetching-API-Mini-Project)**  
-Small web app that fetches data from a public API and renders it dynamically in the UI, focused on practicing async JavaScript, error handling, and clean UI updates.  
-`HTML · CSS · JavaScript · Fetch API`
+### Stock Management System
 
-🔹 **[Phone Shop Backend](https://github.com/PisethMao/phone_shop_piseth)**  
-Java backend for a phone shop, with structured project setup for managing products, categories, and shop data as REST APIs. Built to practice Spring Boot, layered architecture, and clean code for real-world store systems.  
-`Java · Spring Boot · Maven`
+Console-based inventory system supporting product management, search, sorting, pagination, and Excel reporting.
 
-🔹 **[Library Management System](https://github.com/PisethMao/Library-Management-System-Project)**  
-Console-based library system with colored CLI, pagination, and book/member management.  
-`Java · OOP · Collections`
+Tech  
+`C++ · CMake · xlnt · tabulate`
 
-🔹 **[NexPress – Blog Platform](https://github.com/PisethMao/NexPress)**  
-Modern blog platform with hero section, categories, author spotlight, and responsive UI.  
-`Next.js 14 · Tailwind CSS · Framer Motion`
+https://github.com/PisethMao/Stock-Management-System
 
-🔹 **[Launchly – Static Site Deployer](https://github.com/PisethMao/Launchly)**  
-Deploy static sites from GitHub/GitLab/ZIP with automatic subdomains and Cloudflare tunnel integration.  
+---
+
+### NexPress – Blog Platform
+
+Modern blog platform with categories, author spotlight, and responsive UI.
+
+Tech  
+`Next.js · TailwindCSS · Framer Motion`
+
+https://github.com/PisethMao/NexPress
+
+---
+
+### Launchly – Static Site Deployer
+
+Platform that deploys static websites from GitHub, GitLab, or ZIP with automatic subdomain generation.
+
+Tech  
 `Next.js · Node.js · Prisma · SQLite · Cloudflare`
 
+https://github.com/PisethMao/Launchly
+
 ---
-### 🎯 What I'm Working On Now
-- Improving backend design with clean architecture and best practices
-- Learning Docker and basic CI/CD pipelines
-- Praticing Linux server administration and shell scripting
+
+### Phone Shop Backend
+
+REST API backend for a mobile shop system with layered architecture.
+
+Tech  
+`Java · Spring Boot · Maven`
+
+https://github.com/PisethMao/phone_shop_piseth
+
 ---
-### 📫 Contact
-- ✉️ Email: **pisethmao2002@gmail.com**
+
+### Library Management System
+
+Console-based system for managing books and members.
+
+Tech  
+`Java · OOP · Collections`
+
+https://github.com/PisethMao/Library-Management-System-Project
+
+---
+
+## 🎯 Current Focus
+
+- Improving backend architecture
+- Learning Docker and container workflows
+- Practicing CI/CD automation
+- Studying system design concepts
+- Exploring blockchain development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PisethMao&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contact
+
+Email  
+**pisethmao2002@gmail.com**
+
+Location  
+Phnom Penh, Cambodia 🇰🇭
