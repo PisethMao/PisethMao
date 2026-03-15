@@ -160,7 +160,7 @@ https://github.com/PisethMao/Library-Management-System-Project
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight&hide=python,jinja,html,shell"/>
 </p>
 
 <p align="center">
