@@ -56,7 +56,6 @@ Designing backend systems, exploring DevOps automation, and learning decentraliz
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
