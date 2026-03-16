@@ -102,10 +102,6 @@ Designing backend systems, exploring DevOps automation, and learning decentraliz
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PisethMao&layout=compact&theme=tokyonight&hide=python,jinja,html,shell"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PisethMao&theme=tokyo-night"/>
 </p>
 
