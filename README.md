@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,arduino,bash,c,clion,cloudflare,cmake,discord,bots,docker,dotnet,eclipse,express,figma,gcp,git,github,githubactions,gitlab,gmail,go,gradle,grafana,hibernate,html,idea,instagram,java,js,jenkins,jquery,kafka,kubernetes,linkedin,linux,md,materialui,matlab,maven,mongodb,mysql,netlify,nextjs,nginx,nodejs,notion,npm,obsidian,openshift,postgres,postman,powershell,prisma,prometheus,pycharm,py,react,redis,redux,regex,sass,spring,sqlite,stackoverflow,sublime,svg,tailwind,terraform,twitter,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,webassembly,webpack,windows,wordpress,yarn," />
+  <img src="https://skillicons.dev/icons?i=bash,c,cloudflare,cmake,bots,docker,dotnet,figma,gcp,git,github,githubactions,gitlab,gmail,gradle,grafana,html,idea,java,js,jenkins,jquery,kafka,kubernetes,linkedin,linux,md,maven,mongodb,netlify,nextjs,nginx,nodejs,notion,npm,postgres,postman,powershell,prisma,prometheus,py,react,redux,regex,sass,spring,sqlite,stackoverflow,sublime,svg,tailwind,terraform,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,windows,wordpress,yarn," />
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48"/>
