@@ -69,6 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="48"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PisethMao&theme=onedark&row=1&column=6&no-bg=true&no-frame=true&margin-w=10" />
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PisethMao&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
