@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Piseth%20Mao&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20DevOps%20%7C%20Microservice%20%7C%20Blockchain&descAlignY=60&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=I+build+secure+backend+systems;Spring+Boot+%2B+PostgreSQL+%2B+Docker;Learning+Kubernetes+and+DevOps;Building+real-world+projects" />
+</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,c,cloudflare,cmake,bots,docker,dotnet,figma,gcp,git,github,githubactions,gitlab,gmail,gradle,grafana,html,idea,java,js,jenkins,jquery,kafka,kubernetes,linkedin,linux,md,maven,mongodb,netlify,nextjs,nginx,nodejs,notion,npm,postgres,postman,powershell,prisma,prometheus,py,react,redux,regex,sass,spring,sqlite,stackoverflow,sublime,svg,tailwind,terraform,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,windows,wordpress,yarn," />
 </p>
