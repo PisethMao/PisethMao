@@ -72,9 +72,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PisethMao&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/PisethMao/PisethMao/output/github-contribution-grid-snake-dark.svg" />
-</div>
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=130&section=footer" />
-</div>
