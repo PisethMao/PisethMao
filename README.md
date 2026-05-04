@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=I+build+secure+backend+systems;Spring+Boot+%2B+PostgreSQL+%2B+Docker;Learning+Kubernetes+and+DevOps;Building+real-world+projects" />
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,cloudflare,cmake,bots,docker,dotnet,figma,gcp,git,github,githubactions,gitlab,gmail,gradle,grafana,html,idea,java,js,jenkins,jquery,kafka,kubernetes,linkedin,linux,md,maven,mongodb,netlify,nextjs,nginx,nodejs,notion,npm,postgres,postman,powershell,prisma,prometheus,py,react,redux,regex,spring,sqlite,stackoverflow,sublime,svg,tailwind,terraform,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,windows,wordpress,yarn," />
+  <img src="https://skillicons.dev/icons?i=bash,c,cloudflare,cmake,docker,dotnet,figma,gcp,git,github,githubactions,gitlab,gmail,gradle,grafana,html,idea,java,js,jenkins,jquery,kafka,kubernetes,linkedin,linux,md,maven,mongodb,netlify,nextjs,nginx,nodejs,notion,npm,postgres,postman,powershell,prisma,prometheus,py,react,redux,regex,spring,sqlite,stackoverflow,sublime,svg,tailwind,terraform,ts,ubuntu,vercel,vim,visualstudio,vite,vscode,windows,wordpress,yarn," />
 </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="48"/>
@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="48"/>
@@ -69,7 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="48"/>
 </p>
